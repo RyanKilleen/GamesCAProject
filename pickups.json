@@ -1,0 +1,44 @@
+[
+	{
+		"Name": "Health",
+		"Description": "Description",
+		"Value": 0.5,
+		"Type": "Health"
+	},
+	{
+		"Name": "Money",
+		"Description": "Description",
+		"Value": 100,
+		"Type": "Money"
+	},
+	{
+		"Name": "item0",
+		"Description": "Description",
+		"Value": 1,
+		"Type": "Inventory"
+	},
+	{
+		"Name": "item1",
+		"Description": "Description",
+		"Value": 1,
+		"Type": "Inventory"
+	},
+	{
+		"Name": "item2",
+		"Description": "Description",
+		"Value": 1,
+		"Type": "Inventory"
+	},
+	{
+		"Name": "stamina",
+		"Description": "Description",
+		"Value": 0.5,
+		"Type": "Stamina"
+	},
+	{
+		"Name": "mana",
+		"Description": "Description",
+		"Value": 0.5,
+		"Type": "Mana"
+	}
+]
